@@ -2062,7 +2062,7 @@ label {
 }
 
 .cs-page_heading.cs-style1 {
-  height: 650px;
+  height: 60vh;
   padding: 120px 0 50px;
   position: relative;
 }
@@ -2463,7 +2463,7 @@ label {
     top: 8%;
   }
   .cs-video_block.cs-style1 {
-    height: 650px;
+    height: 50vh;
   }
 }
 
